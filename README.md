@@ -1,3 +1,4 @@
+![logo](https://github.com/AgnishaBhatta/AgnishaBhatta/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Agnisha Bhatta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
